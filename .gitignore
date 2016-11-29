@@ -1,0 +1,9 @@
+/Build
+/Library
+/obj
+/Temp
+/Build
+/Build.bak
+Build_Data
+/*.gitignore~
+/Assets/AudioClips
